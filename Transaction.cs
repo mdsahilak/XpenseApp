@@ -7,24 +7,32 @@ using System.Transactions;
 
 namespace Budget_Tracking_App
 {
-    // Enum to represent the type of transaction: Debit or Credit
-    public enum TransactionType
-    {
-        Debit,
-        Credit
-    }
 
     // Class to represent a transaction
     public class Transaction
     {
         // Properties
-        private int id;                         // Unique identifier for the transaction
-        private TransactionType type;           // Type of transaction: Debit or Credit
-        private decimal amount;                 // Amount of the transaction
-        private Category category;              // Category associated with the transaction
-        private DateTime time;                  // Time of the transaction
-        private string note;                    // Additional note for the transaction
-        private bool isRecurring;               // Flag indicating if the transaction is recurring
+
+        // Unique identifier for the transaction
+        private int id;
+
+        // Type of transaction: Debit or Credit
+        private TransactionType type;
+
+        // Amount of the transaction
+        private decimal amount;
+
+        // Category associated with the transaction
+        private Category category;
+
+        // Time of the transaction
+        private DateTime time;
+
+        // Additional note for the transaction
+        private string note;
+
+        // Flag indicating if the transaction is recurring
+        private bool isRecurring;               
 
         // Properties with getters and setters
         public int Id
@@ -32,31 +40,37 @@ namespace Budget_Tracking_App
             get { return id; }
             set { id = value; }
         }
+
         public TransactionType Type
         {
             get { return type; }
             set { type = value; }
         }
+
         public decimal Amount
         {
             get { return amount; }
             set { amount = value; }
         }
+
         public Category Category
         {
             get { return category; }
             set { category = value; }
         }
+
         public DateTime Time
         {
             get { return time; }
             set { time = value; }
         }
+
         public string Note
         {
             get { return note; }
             set { note = value; }
         }
+
         public bool IsRecurring
         {
             get { return isRecurring; }

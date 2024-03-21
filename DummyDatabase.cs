@@ -6,23 +6,14 @@ using System.Threading.Tasks;
 
 namespace Budget_Tracking_App
 {
-    // Interface for the database
-    public interface IDatabase
-    {
-        int GetNextTransactionId();                 // Method to get the next transaction ID
-        void AddTransaction(Transaction transaction);  // Method to add a transaction
-        void DeleteTransaction(int id);            // Method to delete a transaction
-        void AddCategory(string name, decimal budget);  // Method to add a category
-        List<Transaction> GetTransactions();       // Method to get all transactions
-        List<Category> GetCategories();            // Method to get all categories
-    }
-
     // Database class implementing the IDatabase interface
     public class DummyDatabase : IDatabase
     {
         private List<Transaction> transactions;
         private List<Category> categories;
-        private int nextTransactionId = 1; // Starting from 1 for the first transaction
+
+        // Starting from 1 for the first transaction
+        private int nextTransactionId = 1; 
 
         // Constructor
         public DummyDatabase()
@@ -57,11 +48,13 @@ namespace Budget_Tracking_App
                 // Update the category's expense or budget based on the transaction type
                 if (transaction.Type == TransactionType.Debit)
                 {
-                    transaction.Category.Expense += transaction.Amount; // Increase category's expense
+                    // Increase category's expense
+                    transaction.Category.Expense += transaction.Amount; 
                 }
                 else
                 {
-                    transaction.Category.Budget += transaction.Amount; // Increase category's budget
+                    // Increase category's budget
+                    transaction.Category.Budget += transaction.Amount; 
                 }
                 Console.WriteLine("Transaction added successfully.");
 
@@ -86,11 +79,13 @@ namespace Budget_Tracking_App
                     // Adjust category expense or budget based on transaction type
                     if (transactionToDelete.Type == TransactionType.Debit)
                     {
-                        transactionToDelete.Category.Expense -= transactionToDelete.Amount; // Decrease category expense
+                        // Decrease category expense
+                        transactionToDelete.Category.Expense -= transactionToDelete.Amount; 
                     }
                     else
                     {
-                        transactionToDelete.Category.Budget -= transactionToDelete.Amount; // Decrease category budget
+                        // Decrease category budget
+                        transactionToDelete.Category.Budget -= transactionToDelete.Amount; 
                     }
 
                     // Remove the transaction from the list

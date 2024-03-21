@@ -8,20 +8,6 @@ using System.Transactions;
 
 namespace Budget_Tracking_App
 {
-    // Interface for ExpenseTracker
-    public interface IExpenseTracker
-    {
-        void ShowRecentTransactions();
-        void AddTransaction();
-        void EditTransaction();
-        void DeleteTransaction();
-        void ShowCategories();
-        void AddCategory();
-        void SetBudgetForCategory();
-        void ShowSpendingByCategories();
-        void ShowOverallSpending();
-    }
-
     // ExpenseTracker class implementing the IExpenseTracker interface
     public class ExpenseTracker : IExpenseTracker
     {

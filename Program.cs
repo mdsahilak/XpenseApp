@@ -47,7 +47,9 @@
                             Console.WriteLine("1. Show Categories");
                             Console.WriteLine("2. Add Category");
                             Console.WriteLine("3. Set Budget for Categories");
+
                             string catChoice = Console.ReadLine();
+
                             switch (catChoice)
                             {
                                 case "1":
@@ -69,7 +71,9 @@
                             Console.WriteLine("Enter your choice: ");
                             Console.WriteLine("1. Show overall Spending");
                             Console.WriteLine("2. Show spending by category");
+
                             string analysisChoice = Console.ReadLine();
+
                             switch (analysisChoice)
                             {
                                 case "1":
@@ -87,6 +91,7 @@
                             // Exit the program
                             Environment.Exit(0);
                             break;
+
                         default:
                             Console.WriteLine("Invalid choice. Please try again.");
                             break;

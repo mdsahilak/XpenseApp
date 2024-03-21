@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dell\\OneDrive\\Documents\\All Folders\\FolderforCode\\Budget_Tracking_App\\Budget_Tracking_App.csproj": {}
+    "/Users/sahil/Desktop/XpenseApp/Budget_Tracking_App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dell\\OneDrive\\Documents\\All Folders\\FolderforCode\\Budget_Tracking_App\\Budget_Tracking_App.csproj": {
+    "/Users/sahil/Desktop/XpenseApp/Budget_Tracking_App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dell\\OneDrive\\Documents\\All Folders\\FolderforCode\\Budget_Tracking_App\\Budget_Tracking_App.csproj",
+        "projectUniqueName": "/Users/sahil/Desktop/XpenseApp/Budget_Tracking_App.csproj",
         "projectName": "Budget_Tracking_App",
-        "projectPath": "C:\\Users\\dell\\OneDrive\\Documents\\All Folders\\FolderforCode\\Budget_Tracking_App\\Budget_Tracking_App.csproj",
-        "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dell\\OneDrive\\Documents\\All Folders\\FolderforCode\\Budget_Tracking_App\\obj\\",
+        "projectPath": "/Users/sahil/Desktop/XpenseApp/Budget_Tracking_App.csproj",
+        "packagesPath": "/Users/sahil/.nuget/packages/",
+        "outputPath": "/Users/sahil/Desktop/XpenseApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/sahil/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.314/RuntimeIdentifierGraph.json"
         }
       }
     }

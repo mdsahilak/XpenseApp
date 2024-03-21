@@ -1,14 +1,29 @@
-C:\Users\dell\OneDrive\Documents\All Folders\FolderforCode\Budget_Tracking_App\obj\Debug\net7.0\Budget_Tracking_App.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\dell\OneDrive\Documents\All Folders\FolderforCode\Budget_Tracking_App\obj\Debug\net7.0\Budget_Tracking_App.AssemblyInfoInputs.cache
-C:\Users\dell\OneDrive\Documents\All Folders\FolderforCode\Budget_Tracking_App\obj\Debug\net7.0\Budget_Tracking_App.AssemblyInfo.cs
-C:\Users\dell\OneDrive\Documents\All Folders\FolderforCode\Budget_Tracking_App\obj\Debug\net7.0\Budget_Tracking_App.csproj.CoreCompileInputs.cache
-C:\Users\dell\OneDrive\Documents\All Folders\FolderforCode\Budget_Tracking_App\bin\Debug\net7.0\Budget_Tracking_App.exe
-C:\Users\dell\OneDrive\Documents\All Folders\FolderforCode\Budget_Tracking_App\bin\Debug\net7.0\Budget_Tracking_App.deps.json
-C:\Users\dell\OneDrive\Documents\All Folders\FolderforCode\Budget_Tracking_App\bin\Debug\net7.0\Budget_Tracking_App.runtimeconfig.json
-C:\Users\dell\OneDrive\Documents\All Folders\FolderforCode\Budget_Tracking_App\bin\Debug\net7.0\Budget_Tracking_App.dll
-C:\Users\dell\OneDrive\Documents\All Folders\FolderforCode\Budget_Tracking_App\bin\Debug\net7.0\Budget_Tracking_App.pdb
-C:\Users\dell\OneDrive\Documents\All Folders\FolderforCode\Budget_Tracking_App\obj\Debug\net7.0\Budget_Tracking_App.dll
-C:\Users\dell\OneDrive\Documents\All Folders\FolderforCode\Budget_Tracking_App\obj\Debug\net7.0\refint\Budget_Tracking_App.dll
-C:\Users\dell\OneDrive\Documents\All Folders\FolderforCode\Budget_Tracking_App\obj\Debug\net7.0\Budget_Tracking_App.pdb
-C:\Users\dell\OneDrive\Documents\All Folders\FolderforCode\Budget_Tracking_App\obj\Debug\net7.0\Budget_Tracking_App.genruntimeconfig.cache
-C:\Users\dell\OneDrive\Documents\All Folders\FolderforCode\Budget_Tracking_App\obj\Debug\net7.0\ref\Budget_Tracking_App.dll
+C:/Users/dell/OneDrive/Documents/All Folders/FolderforCode/Budget_Tracking_App/obj/Debug/net7.0/Budget_Tracking_App.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/dell/OneDrive/Documents/All Folders/FolderforCode/Budget_Tracking_App/obj/Debug/net7.0/Budget_Tracking_App.AssemblyInfoInputs.cache
+C:/Users/dell/OneDrive/Documents/All Folders/FolderforCode/Budget_Tracking_App/obj/Debug/net7.0/Budget_Tracking_App.AssemblyInfo.cs
+C:/Users/dell/OneDrive/Documents/All Folders/FolderforCode/Budget_Tracking_App/obj/Debug/net7.0/Budget_Tracking_App.csproj.CoreCompileInputs.cache
+C:/Users/dell/OneDrive/Documents/All Folders/FolderforCode/Budget_Tracking_App/bin/Debug/net7.0/Budget_Tracking_App.exe
+C:/Users/dell/OneDrive/Documents/All Folders/FolderforCode/Budget_Tracking_App/bin/Debug/net7.0/Budget_Tracking_App.deps.json
+C:/Users/dell/OneDrive/Documents/All Folders/FolderforCode/Budget_Tracking_App/bin/Debug/net7.0/Budget_Tracking_App.runtimeconfig.json
+C:/Users/dell/OneDrive/Documents/All Folders/FolderforCode/Budget_Tracking_App/bin/Debug/net7.0/Budget_Tracking_App.dll
+C:/Users/dell/OneDrive/Documents/All Folders/FolderforCode/Budget_Tracking_App/bin/Debug/net7.0/Budget_Tracking_App.pdb
+C:/Users/dell/OneDrive/Documents/All Folders/FolderforCode/Budget_Tracking_App/obj/Debug/net7.0/Budget_Tracking_App.dll
+C:/Users/dell/OneDrive/Documents/All Folders/FolderforCode/Budget_Tracking_App/obj/Debug/net7.0/refint/Budget_Tracking_App.dll
+C:/Users/dell/OneDrive/Documents/All Folders/FolderforCode/Budget_Tracking_App/obj/Debug/net7.0/Budget_Tracking_App.pdb
+C:/Users/dell/OneDrive/Documents/All Folders/FolderforCode/Budget_Tracking_App/obj/Debug/net7.0/Budget_Tracking_App.genruntimeconfig.cache
+C:/Users/dell/OneDrive/Documents/All Folders/FolderforCode/Budget_Tracking_App/obj/Debug/net7.0/ref/Budget_Tracking_App.dll
+/Users/sahil/Desktop/XpenseApp/obj/Debug/net7.0/Budget_Tracking_App.csproj.AssemblyReference.cache
+/Users/sahil/Desktop/XpenseApp/obj/Debug/net7.0/Budget_Tracking_App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sahil/Desktop/XpenseApp/obj/Debug/net7.0/Budget_Tracking_App.AssemblyInfoInputs.cache
+/Users/sahil/Desktop/XpenseApp/obj/Debug/net7.0/Budget_Tracking_App.AssemblyInfo.cs
+/Users/sahil/Desktop/XpenseApp/obj/Debug/net7.0/Budget_Tracking_App.csproj.CoreCompileInputs.cache
+/Users/sahil/Desktop/XpenseApp/obj/Debug/net7.0/Budget_Tracking_App.dll
+/Users/sahil/Desktop/XpenseApp/obj/Debug/net7.0/refint/Budget_Tracking_App.dll
+/Users/sahil/Desktop/XpenseApp/obj/Debug/net7.0/Budget_Tracking_App.pdb
+/Users/sahil/Desktop/XpenseApp/bin/Debug/net7.0/Budget_Tracking_App
+/Users/sahil/Desktop/XpenseApp/bin/Debug/net7.0/Budget_Tracking_App.deps.json
+/Users/sahil/Desktop/XpenseApp/bin/Debug/net7.0/Budget_Tracking_App.runtimeconfig.json
+/Users/sahil/Desktop/XpenseApp/bin/Debug/net7.0/Budget_Tracking_App.dll
+/Users/sahil/Desktop/XpenseApp/bin/Debug/net7.0/Budget_Tracking_App.pdb
+/Users/sahil/Desktop/XpenseApp/obj/Debug/net7.0/Budget_Tracking_App.genruntimeconfig.cache
+/Users/sahil/Desktop/XpenseApp/obj/Debug/net7.0/ref/Budget_Tracking_App.dll
